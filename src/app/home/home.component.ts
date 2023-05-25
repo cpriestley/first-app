@@ -29,7 +29,7 @@ export class HomeComponent {
     name: 'Test Home',
     city: 'Test City',
     state: 'ST',
-    photo: 'src/assets/example-house.jpg',
+    photo: '/assets/example-house.jpg',
     availableUnits: 99,
     wifi: true,
     laundry: false,
