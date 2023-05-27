@@ -7,7 +7,7 @@ import { RouterModule } from '@angular/router';
   standalone: true,
   imports: [
     HomeComponent,
-    RouterModule,
+    RouterModule
   ],
   template: `
     <main>
